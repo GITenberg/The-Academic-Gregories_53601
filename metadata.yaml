@@ -1,0 +1,36 @@
+_repo: The-Academic-Gregories_53601
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Brown, Joseph
+    gutenberg_agent_id: '42796'
+    url: http://www.gutenberg.org/2009/agents/42796
+creator:
+  author:
+    agent_name: Stewart, Agnes Grainger
+    birthdate: 1871
+    deathdate: 1956
+    gutenberg_agent_id: '47448'
+    url: http://www.gutenberg.org/2009/agents/47448
+description: ''
+gutenberg_issued: '2016-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53601'
+  lccn: 03012933
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Scots series
+subjects:
+- !lcsh 'Gregory family'
+- !lcc 'CS'
+- GITenberg
+tableOfContents: The Gregories -- David Gregorie of Kinairdy, 1625-1720 -- James Gregorie,
+  1638-1675 -- David Gregory, 1661-1708 -- David Gregory, 1696-1767 -- (1) James Gregorie,
+  1666-1742; (2) Charles Gregorie, 1681-1739; (3) David Gregorie, 1712-1765 -- (1)
+  James Gregorie, 1674-1733; (2) James Gregorie, 1701-1755 -- John Gregory, 1724-1773
+  -- James Gregory, 1753-1821 -- William Gregory, 1803-1858 -- Retrospect.
+title: The Academic Gregories
+url: http://www.gutenberg.org/ebooks/53601
